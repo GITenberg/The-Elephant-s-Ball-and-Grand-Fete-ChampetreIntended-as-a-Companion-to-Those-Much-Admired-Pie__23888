@@ -1,0 +1,29 @@
+_repo: The-Elephant-s-Ball-and-Grand-Fete-ChampetreIntended-as-a-Companion-to-Those-Much-Admired-Pie__23888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: W. B.
+    gutenberg_agent_id: '26114'
+    url: http://www.gutenberg.org/2009/agents/26114
+description: ''
+gutenberg_issued: '2007-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stories in rhyme'
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Balls (Parties) -- Fiction'
+title: 'The Elephant''s Ball, and Grand Fete Champetre
+
+  Intended as a Companion to Those Much Admired Pieces, the Butterfly''s Ball, and
+  the Peacock "At Home."'
+url: http://www.gutenberg.org/ebooks/23888
